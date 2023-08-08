@@ -8,5 +8,3 @@ DOMAIN-SUFFIX,bitmovin.com
 DOMAIN,d2n9h2wits23hf.cloudfront.net:443
 DOMAIN,f1prodlive.akamaized.net:443
 DOMAIN-SUFFIX,contentdirect.tv
-IP-CIDR,170.106.141.56/32
-IP-CIDR,64.112.42.146/32
