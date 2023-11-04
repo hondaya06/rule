@@ -22,12 +22,6 @@ DOMAIN,news-edge.apple.com
 DOMAIN,news-events.apple.com
 DOMAIN,apple.comscoreresearch.com
 # ------
-# > Microsoft
-DOMAIN-SUFFIX,bing.com
-DOMAIN-SUFFIX,linkedin.com
-DOMAIN-SUFFIX,licdn.com
-DOMAIN-SUFFIX,msn.com
-DOMAIN-SUFFIX,skype.com
 DOMAIN,3dns-1.adobe.com
 DOMAIN,3dns-2.adobe.com
 DOMAIN,3dns-3.adobe.com
