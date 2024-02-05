@@ -1,19 +1,19 @@
-- IP-CIDR,121.36.118.212/32
-- DOMAIN-SUFFIX,pglstatp-toutiao.com
-- DOMAIN-SUFFIX,pangolin-sdlk-toutiao.com
-- DOMAIN-SUFFIX,tnc3-aliec2.snssdk.com
-- DOMAIN-SUFFIX,bugly.qq.com
-- DOMAIN-SUFFIX,umengcloud.com
-- DOMAIN-SUFFIX,ulogs.umeng.com
-- DOMAIN-SUFFIX,p.s.360.cn
-- DOMAIN-SUFFIX,ocsp.apple.com
-- DOMAIN-SUFFIX,hivoice-speaker-drcn.emui.dbankcloud.com
-- DOMAIN-SUFFIX,iomplatform.hicloud.com
-- DOMAIN-SUFFIX,o1098464.ingest.sentry.io
-- DOMAIN-SUFFIX,miwifi.com
-- DOMAIN-SUFFIX,owenyoung.com
-- DOMAIN-SUFFIX,immersivetranslate.com
-- DOMAIN-SUFFIX,mesu.apple.com
-- DOMAIN-SUFFIX,gdmf.apple.com
-- DOMAIN-SUFFIX,updates-http.cdn-apple.com
-- DOMAIN-SUFFIX,xp.apple.com
+IP-CIDR,121.36.118.212/32
+DOMAIN-SUFFIX,pglstatp-toutiao.com
+DOMAIN-SUFFIX,pangolin-sdlk-toutiao.com
+DOMAIN-SUFFIX,tnc3-aliec2.snssdk.com
+DOMAIN-SUFFIX,bugly.qq.com
+DOMAIN-SUFFIX,umengcloud.com
+DOMAIN-SUFFIX,ulogs.umeng.com
+DOMAIN-SUFFIX,p.s.360.cn
+DOMAIN-SUFFIX,ocsp.apple.com
+DOMAIN-SUFFIX,hivoice-speaker-drcn.emui.dbankcloud.com
+DOMAIN-SUFFIX,iomplatform.hicloud.com
+DOMAIN-SUFFIX,o1098464.ingest.sentry.io
+DOMAIN-SUFFIX,miwifi.com
+DOMAIN-SUFFIX,owenyoung.com
+DOMAIN-SUFFIX,immersivetranslate.com
+DOMAIN-SUFFIX,mesu.apple.com
+DOMAIN-SUFFIX,gdmf.apple.com
+DOMAIN-SUFFIX,updates-http.cdn-apple.com
+DOMAIN-SUFFIX,xp.apple.com
