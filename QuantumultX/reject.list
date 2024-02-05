@@ -1,0 +1,14 @@
+IP-CIDR,121.36.118.212/32,reject
+host-suffix,pglstatp-toutiao.com,reject
+host-suffix,pangolin-sdlk-toutiao.com,reject
+host-suffix,tnc3-aliec2.snssdk.com,reject
+host-suffix,bugly.qq.com,reject
+host-suffix,umengcloud.com,reject
+host-suffix,ulogs.umeng.com,reject
+host-suffix,p.s.360.cn,reject
+host-suffix,ocsp.apple.com,reject
+host-suffix,hivoice-speaker-drcn.emui.dbankcloud.com,reject
+host-suffix,iomplatform.hicloud.com,reject
+host-suffix,o1098464.ingest.sentry.io,reject
+host-suffix,owenyoung.com,reject
+host-suffix,immersivetranslate.com,reject
