@@ -1,11 +1,11 @@
-# NAME: WeChat
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-04-07 14:51:44
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 12
-# IP-CIDR: 10
-# TOTAL: 23
+DOMAIN,dl.wechat.com,WeChat
+DOMAIN,sgfindershort.wechat.com,WeChat
+DOMAIN,sgilinkshort.wechat.com,WeChat
+DOMAIN,sglong.wechat.com,WeChat
+DOMAIN,sgminorshort.wechat.com,WeChat
+DOMAIN,sgquic.wechat.com,WeChat
+DOMAIN,sgshort.wechat.com,WeChat
+DOMAIN,tencentmap.wechat.com,WeChat
 DOMAIN-SUFFIX,qlogo.cn
 DOMAIN-SUFFIX,qpic.cn
 DOMAIN-SUFFIX,servicewechat.com
