@@ -20,5 +20,9 @@ DOMAIN-SUFFIX,openaicomproductionae4b.blob.core.windows.net
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,owz3qoiija-dsn.algolia.net
+DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN,cdn.usefathom.com
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,deepl.com
