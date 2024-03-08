@@ -12,3 +12,5 @@ host-suffix,iomplatform.hicloud.com,reject
 host-suffix,o1098464.ingest.sentry.io,reject
 host-suffix,owenyoung.com,reject
 host-suffix,immersivetranslate.com,reject
+host-suffix,staybrowser.com,reject
+host-suffix,tnc3-alisc1.zijieapi.com,reject
