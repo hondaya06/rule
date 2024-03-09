@@ -24,4 +24,5 @@ HOST-SUFFIX,generativelanguage.googleapis.com,AI
 HOST,cdn.usefathom.com,AI
 HOST-SUFFIX,anthropic.com,AI
 HOST-SUFFIX,claude.ai,AI
+HOST-SUFFIX,perplexity.ai,AI
 HOST-SUFFIX,deepl.com,AI
