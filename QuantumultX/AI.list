@@ -20,9 +20,12 @@ HOST-SUFFIX,openaicomproductionae4b.blob.core.windows.net,AI
 HOST-SUFFIX,oaiusercontent.com,AI
 HOST-SUFFIX,oaistatic.com,AI
 HOST-SUFFIX,owz3qoiija-dsn.algolia.net,AI
+HOST-SUFFIX,bard.google.com,AI
 HOST-SUFFIX,generativelanguage.googleapis.com,AI
 HOST,cdn.usefathom.com,AI
 HOST-SUFFIX,anthropic.com,AI
 HOST-SUFFIX,claude.ai,AI
 HOST-SUFFIX,perplexity.ai,AI
+HOST-SUFFIX,fscdn.eppo.cloud,AI
+HOST-SUFFIX,api.revenuecat.com,AI
 HOST-SUFFIX,deepl.com,AI
