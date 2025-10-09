@@ -1,0 +1,4 @@
+# 沉浸式翻译
+HOST-SUFFIX,owenyoung.com,proxy
+HOST-SUFFIX,immersivetranslate.com,proxy
+HOST-SUFFIX,immersive-translate.deno.dev,proxy
