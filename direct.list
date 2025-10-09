@@ -1,0 +1,174 @@
+# apple
+DOMAIN-SUFFIX,captive.apple.com
+DOMAIN-SUFFIX,push.apple.com
+DOMAIN-SUFFIX,time.apple.com
+DOMAIN-SUFFIX,ocsp2.apple.com
+#ddns
+DOMAIN-SUFFIX,ip.3322.net
+DOMAIN-SUFFIX,myip.ipip.net
+DOMAIN-SUFFIX,4.ipw.cn
+DOMAIN-KEYWORD,quickconnect
+DOMAIN-SUFFIX,checkip.dyndns.org
+DOMAIN-SUFFIX,checkipv6.dyndns.org
+DOMAIN-SUFFIX,ifconfig.co
+DOMAIN-SUFFIX,api.myip.com
+# ImmortalWrt 软件仓库
+DOMAIN-SUFFIX,immortalwrt.org
+DOMAIN-SUFFIX,vsean.net
+# 其他域名
+DOMAIN-SUFFIX,kit327.com
+DOMAIN-SUFFIX,ipapi.co
+DOMAIN-SUFFIX,ip6.seeip.org
+DOMAIN-SUFFIX,members.3322.org
+# Windows 网络连接探测
+DOMAIN-SUFFIX,msftconnecttest.com
+DOMAIN-SUFFIX,msftncsi.com
+# 松下智能家居
+DOMAIN-SUFFIX,psmartcloud.com
+# Akamai CDN
+DOMAIN-SUFFIX,akamaihd.net
+# FinalShell
+IP-CIDR,5.5.5.5/32,no-resolve
+# Emby 小雅 相关
+DOMAIN-SUFFIX,ddsrem.com
+DOMAIN-SUFFIX,ipinfo.io
+DOMAIN-SUFFIX,ggbond.org
+DOMAIN-SUFFIX,nn.ci
+DOMAIN-SUFFIX,xhofe.top
+DOMAIN-SUFFIX,wwwh.eu.org
+DOMAIN-SUFFIX,1996999.xyz
+# 国内 CDN
+DOMAIN-SUFFIX,cjjd19.com
+# UniGetUI
+DOMAIN-SUFFIX,powershellgallery.com
+# NTP Pool Project
+DOMAIN-SUFFIX,pool.ntp.org
+# Dell
+DOMAIN-SUFFIX,dell.com
+# 暴雪战网国际服下载节点
+DOMAIN-SUFFIX,blizzard.gcdn.cloudn.co.kr
+DOMAIN-SUFFIX,level3.blizzard.com
+DOMAIN-SUFFIX,kr.cdn.blizzard.com
+DOMAIN-SUFFIX,us.cdn.blizzard.com
+DOMAIN-SUFFIX,eu.cdn.blizzard.com
+IP-CIDR,137.221.64.0/24,no-resolve
+IP-CIDR,8.251.135.126/32,no-resolve
+IP-CIDR,8.251.246.126/32,no-resolve
+IP-CIDR,104.75.169.19/32,no-resolve
+# 暴雪战网国服相关
+DOMAIN-SUFFIX,netease.com
+DOMAIN-SUFFIX,leihuo.netease.com
+# EA CDN
+DOMAIN-SUFFIX,ssl-lvlt.cdn.ea.com
+# Steam
+DOMAIN-SUFFIX,steamcontent.com
+DOMAIN-SUFFIX,steamusercontent.com
+DOMAIN-SUFFIX,origin-a.akamaihd.net
+DOMAIN,content1.steampowered.com
+DOMAIN,content2.steampowered.com
+DOMAIN,content3.steampowered.com
+DOMAIN,content4.steampowered.com
+DOMAIN,content5.steampowered.com
+DOMAIN,content6.steampowered.com
+DOMAIN,content7.steampowered.com
+DOMAIN,content8.steampowered.com
+DOMAIN,client-download.steampowered.com
+DOMAIN,content-origin.steampowered.com
+DOMAIN,clientconfig.akamai.steamtransparent.com
+DOMAIN,steampipe.akamaized.net
+DOMAIN,steam.apac.qtlglb.com.mwcloudcdn.com
+DOMAIN,cdn1-sea1.valve.net
+DOMAIN,cdn2-sea1.valve.net
+DOMAIN,steam.apac.qtlglb.com
+DOMAIN,edge.steam-dns.top.comcast.net
+DOMAIN,edge.steam-dns-2.top.comcast.net
+DOMAIN,steam.naeu.qtlglb.com
+DOMAIN,steampipe-kr.akamaized.net
+DOMAIN,steam.ix.asn.au
+DOMAIN,steam.eca.qtlglb.com
+DOMAIN,steam.cdn.on.net
+DOMAIN,update5.dota2.wmsj.cn
+DOMAIN,update2.dota2.wmsj.cn
+DOMAIN,update6.dota2.wmsj.cn
+DOMAIN,update3.dota2.wmsj.cn
+DOMAIN,update1.dota2.wmsj.cn
+DOMAIN,update4.dota2.wmsj.cn
+DOMAIN,update5.csgo.wmsj.cn
+DOMAIN,update2.csgo.wmsj.cn
+DOMAIN,update4.csgo.wmsj.cn
+DOMAIN,update3.csgo.wmsj.cn
+DOMAIN,update6.csgo.wmsj.cn
+DOMAIN,update1.csgo.wmsj.cn
+DOMAIN,st.dl.bscstorage.net
+DOMAIN,cdn.mileweb.cs.steampowered.com.8686c.com
+DOMAIN,steamcdn-a.akamaihd.net
+DOMAIN-SUFFIX,content.steampowered.com
+DOMAIN-SUFFIX,hsar.steampowered.com.edgesuite.net
+DOMAIN-SUFFIX,akamai.steamstatic.com
+DOMAIN-SUFFIX,cs.steampowered.com
+DOMAIN-SUFFIX,cm.steampowered.com
+DOMAIN-SUFFIX,edgecast.steamstatic.com
+DOMAIN-SUFFIX,steamcontent.com
+DOMAIN-SUFFIX,steam-content-dnld-1.apac-1-cdn.cqloud.com
+DOMAIN-SUFFIX,steam-content-dnld-1.eu-c1-cdn.cqloud.com
+DOMAIN-SUFFIX,steam-content-dnld-1.qwilted-cds.cqloud.com
+# Rockstar Launcher - 客户端更新/游戏更新/下载
+DOMAIN-SUFFIX,gamedownloads-rockstargames-com.akamaized.net
+# Epic Games - 游戏下载[Akamai]
+DOMAIN-SUFFIX,epicgames-download1.akamaized.net
+# Epic Game - 游戏下载[Fastly]
+DOMAIN-SUFFIX,fastly-download.epicgames.com
+# Epic Game - 游戏下载[CloudFlare]
+DOMAIN-SUFFIX,cloudflare.epicgamescdn.com
+# Epic Game - 游戏下载[中国区]
+DOMAIN-SUFFIX,epicgames-download1-1251447533.file.myqcloud.com
+# Battle.net - 战网下载[CloudN]
+DOMAIN-SUFFIX,blizzard.gcdn.cloudn.co.kr
+# Battle.net - 战网下载[Akamai]
+DOMAIN-SUFFIX,blzddist1-a.akamaihd.net
+DOMAIN-SUFFIX,blzddistkr1-a.akamaihd.net
+DOMAIN-SUFFIX,level3.blizzard.com
+DOMAIN-SUFFIX,level3.ssl.blizzard.com
+# GOG - 客户端更新/游戏下载[Akamai]
+DOMAIN-SUFFIX,gog-cdn.akamaized.net
+# XBOX/Microsoft Store - 游戏下载[国际]
+DOMAIN-SUFFIX,xvcf1.xboxlive.com
+DOMAIN-SUFFIX,xvcf2.xboxlive.com
+DOMAIN-SUFFIX,assets1.xboxlive.com
+DOMAIN-SUFFIX,assets2.xboxlive.com
+# Ubisoft Connect(Uplay) - 游戏下载(国际) - A
+DOMAIN-SUFFIX,uplaypc-s-ubisoft.cdn.ubi.com
+DOMAIN-SUFFIX,uplaypc-s-ubisoft-ww.cdn.ubi.com
+# Ubisoft Connect(Uplay) - 游戏下载(国际) - B
+DOMAIN-SUFFIX,ubisoftconnect.cdn.ubi.com
+# Ubisoft Connect(Uplay) - 游戏下载(中国大陆地区)
+DOMAIN-SUFFIX,uplaypc-s-ubisoft.cdn.ubionline.com.cn
+# EA Desktop - 游戏下载[akamai-CDN]
+DOMAIN-SUFFIX,origin-a.akamaihd.net
+IP-CIDR,104.75.169.19/32,no-resolve
+# Steam - 游戏下载(非中国下载区) - akamai
+DOMAIN-SUFFIX,steampipe.akamaized.net
+DOMAIN-SUFFIX,steampipe-kr.akamaized.net
+DOMAIN-SUFFIX,steampipe-partner.akamaized.net
+DOMAIN-SUFFIX,akamai.cdn.steampipe.steamcontent.com
+# Steam - 游戏下载(非中国下载区) - Fastly
+DOMAIN-SUFFIX,fastly.cdn.steampipe.steamcontent.com
+# Steam - 游戏下载(非中国下载区) - 网宿(国际)
+DOMAIN-SUFFIX,steam.eca.qtlglb.com
+DOMAIN-SUFFIX,steam.naeu.qtlglb.com
+DOMAIN-SUFFIX,steam.ru.qtlglb.com
+# Steam - 游戏下载(非中国下载区) - edgecast
+DOMAIN-SUFFIX,edge.steam-dns.top.comcast.net
+# 最终幻想14(国际版) 游戏更新/下载
+DOMAIN-SUFFIX,patch-dl.ffxiv.com
+# 其他
+DOMAIN-SUFFIX,qbittorrent.org
+DOMAIN-KEYWORD,aria2
+DOMAIN-KEYWORD,thunder
+DOMAIN-KEYWORD,xlliveud
+DOMAIN-KEYWORD,xunlei
+DOMAIN-KEYWORD,yunpan
+DOMAIN-SUFFIX,cdnfe.com
+DOMAIN-SUFFIX,riskbird.com
+DOMAIN-SUFFIX,qiyedata.net
+DOMAIN-SUFFIX,skyee360.com
