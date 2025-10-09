@@ -1,0 +1,100 @@
+# OpenAI
+HOST,browser-intake-datadoghq.com,AI
+HOST,chat.openai.com.cdn.cloudflare.net,AI
+HOST,openai-api.arkoselabs.com,AI
+HOST,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,AI
+HOST,openaicomproductionae4b.blob.core.windows.net,AI
+HOST,production-openaicom-storage.azureedge.net,AI
+HOST,static.cloudflareinsights.com,AI
+HOST-SUFFIX,ai.com,AI
+HOST-SUFFIX,algolia.net,AI
+HOST-SUFFIX,api.statsig.com,AI
+HOST-SUFFIX,auth0.com,AI
+HOST-SUFFIX,chatgpt.com,AI
+HOST-SUFFIX,chatgpt.livekit.cloud,AI
+HOST-SUFFIX,client-api.arkoselabs.com,AI
+HOST-SUFFIX,events.statsigapi.net,AI
+HOST-SUFFIX,featuregates.org,AI
+HOST-SUFFIX,identrust.com,AI
+HOST-SUFFIX,intercom.io,AI
+HOST-SUFFIX,intercomcdn.com,AI
+HOST-SUFFIX,launchdarkly.com,AI
+HOST-SUFFIX,oaistatic.com,AI
+HOST-SUFFIX,oaiusercontent.com,AI
+HOST-SUFFIX,observeit.net,AI
+HOST-SUFFIX,openai.com,AI
+HOST-SUFFIX,openaiapi-site.azureedge.net,AI
+HOST-SUFFIX,openaicom.imgix.net,AI
+HOST-SUFFIX,segment.io,AI
+HOST-SUFFIX,sentry.io,AI
+HOST-SUFFIX,stripe.com,AI
+HOST-SUFFIX,turn.livekit.cloud,AI
+HOST-KEYWORD,openai,AI
+IP-CIDR,24.199.123.28/32,AI
+IP-CIDR,64.23.132.171/32,AI
+IP-ASN,20473,AI
+HOST,cdn.usefathom.com,AI
+HOST-SUFFIX,webpubsub.azure.com,AI
+HOST-SUFFIX,livekit.cloud,AI
+HOST-SUFFIX,lh3.googleusercontent.com,AI
+# Claude
+HOST,cdn.usefathom.com,AI
+HOST-SUFFIX,anthropic.com,AI
+HOST-SUFFIX,claude.ai,AI
+HOST-SUFFIX,claudeusercontent.com,AI
+# Gemini
+HOST,assistant-s3-pa.googleapis.com,AI
+HOST-SUFFIX,proactivebackend-pa.googleapis.com,AI
+HOST,ai.google.dev,AI
+HOST,alkalimakersuite-pa.clients6.google.com,AI
+HOST,makersuite.google.com,AI
+HOST-SUFFIX,bard.google.com,AI
+HOST-SUFFIX,deepmind.com,AI
+HOST-SUFFIX,deepmind.google,AI
+HOST-SUFFIX,gemini.google.com,AI
+HOST-SUFFIX,generativeai.google,AI
+#HOST-SUFFIX,apis.google.com,AI
+HOST-KEYWORD,colab,AI
+HOST-KEYWORD,developerprofiles,AI
+HOST-KEYWORD,generativelanguage,AI
+#HOST-SUFFIX,clients6.google.com,AI
+HOST-SUFFIX,notebooklm.google,AI
+HOST-SUFFIX,notebooklm.google.com,AI
+HOST-SUFFIX,aistudio.google.com,AI
+HOST-SUFFIX,us-central1-aiplatform.googleapis.com,AI
+# xAI
+HOST-SUFFIX,x.ai,AI
+# DeepSeek
+HOST-SUFFIX,deepseek.com,AI
+HOST-SUFFIX,volces.com,AI
+# Perplexity
+HOST-SUFFIX,perplexity.ai,AI
+HOST-SUFFIX,fscdn.eppo.cloud,AI
+HOST-SUFFIX,api.revenuecat.com,AI
+HOST-SUFFIX,stripecdn.com,AI
+HOST-SUFFIX,stripe.network,AI
+# together.ai
+HOST-SUFFIX,together.ai,AI
+# POE
+HOST-SUFFIX,poe.com,AI
+# GMI
+HOST-SUFFIX,gmi-serving.com,AI
+HOST-SUFFIX,gmicloud.ai,AI
+# Apple Intelligence
+#HOST-SUFFIX,apple-relay.cloudflare.com,AI
+#HOST-SUFFIX,apple-relay.apple.com,AI
+#HOST-SUFFIX,guzzoni.apple.com,AI
+#HOST-SUFFIX,xp.apple.com,AI
+#HOST-SUFFIX,smoot.apple.com,AI
+#HOST-SUFFIX,ocsp2.apple.com,AI
+#HOST-SUFFIX,configuration.apple.com,AI
+#HOST-SUFFIX,appleid.cdn-apple.com,AI
+#HOST-SUFFIX,gdmf-ados.apple.com,AI
+#HOST-SUFFIX,mesu.apple.com,AI
+#HOST-SUFFIX,bag.itunes.apple.com,AI
+#HOST-SUFFIX,cl2.apple.com,AI
+#HOST-SUFFIX,swscan.apple.com,AI
+#HOST-SUFFIX,gdmf.apple.com,AI
+#HOST-SUFFIX,app-site-association.cdn-apple.com,AI
+# Adobe
+HOST-KEYWORD,adobe,AI
