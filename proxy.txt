@@ -15,6 +15,8 @@ DOMAIN-SUFFIX,yjbrowser.cn
 DOMAIN-SUFFIX,yjllq.com
 DOMAIN-SUFFIX,yujianpay.com
 DOMAIN-SUFFIX,ktllq.cn
+# 富途牛牛
+DOMAIN-SUFFIX,moomoo.com
 # Apple
 DOMAIN,api-glb-sea.smoot.apple.com
 DOMAIN,apple.comscoreresearch.com
