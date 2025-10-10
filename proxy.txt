@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 # 沉浸式翻译
 DOMAIN-SUFFIX,owenyoung.com
+DOMAIN-SUFFIX,immersivetranslate.cn
 DOMAIN-SUFFIX,immersivetranslate.com
 DOMAIN-SUFFIX,immersive-translate.deno.dev
 #thanox
