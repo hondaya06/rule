@@ -53,29 +53,32 @@ DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,deepmind.google
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,generativeai.google
-DOMAIN-KEYWORD,colab
-DOMAIN-KEYWORD,developerprofiles
-DOMAIN-KEYWORD,generativelanguage
 DOMAIN-SUFFIX,notebooklm.google
 DOMAIN-SUFFIX,notebooklm.google.com
 DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,colab.google.com
+DOMAIN-SUFFIX,colab.research.google.com
+DOMAIN-SUFFIX,developerprofiles.google.com
+DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,us-central1-aiplatform.googleapis.com
 DOMAIN-SUFFIX,us-east4-aiplatform.googleapis.com
 DOMAIN-SUFFIX,us-south1-aiplatform.googleapis.com
 # Grok
 DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,grok.com
 # Perplexity
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,fscdn.eppo.cloud
 DOMAIN-SUFFIX,api.revenuecat.com
 DOMAIN-SUFFIX,stripecdn.com
 DOMAIN-SUFFIX,stripe.network
+DOMAIN-SUFFIX,pplx-res.cloudinary.com
+DOMAIN-SUFFIX,pplx.ai
 # together.ai
 DOMAIN-SUFFIX,together.ai
 # POE
 DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,poecdn.net
 # GMI
 DOMAIN-SUFFIX,gmi-serving.com
 DOMAIN-SUFFIX,gmicloud.ai
-# Adobe
-DOMAIN-KEYWORD,adobe
