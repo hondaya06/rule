@@ -62,11 +62,8 @@ DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,us-central1-aiplatform.googleapis.com
 DOMAIN-SUFFIX,us-east4-aiplatform.googleapis.com
 DOMAIN-SUFFIX,us-south1-aiplatform.googleapis.com
-# xAI
+# Grok
 DOMAIN-SUFFIX,x.ai
-# DeepSeek
-DOMAIN-SUFFIX,deepseek.com
-DOMAIN-SUFFIX,volces.com
 # Perplexity
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,fscdn.eppo.cloud
