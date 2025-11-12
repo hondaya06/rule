@@ -3,12 +3,3 @@ HOST-SUFFIX,captive.apple.com,direct
 HOST-SUFFIX,push.apple.com,direct
 HOST-SUFFIX,time.apple.com,direct
 HOST-SUFFIX,ocsp2.apple.com,direct
-#ddns
-HOST-SUFFIX,ip.3322.net,direct
-HOST-SUFFIX,myip.ipip.net,direct
-HOST-SUFFIX,4.ipw.cn,direct
-HOST-KEYWORD,quickconnect,direct
-HOST-SUFFIX,checkip.dyndns.org,direct
-HOST-SUFFIX,checkipv6.dyndns.org,direct
-HOST-SUFFIX,ifconfig.co,direct
-HOST-SUFFIX,api.myip.com,direct
