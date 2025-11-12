@@ -20,9 +20,6 @@ DOMAIN-SUFFIX,kit327.com
 DOMAIN-SUFFIX,ipapi.co
 DOMAIN-SUFFIX,ip6.seeip.org
 DOMAIN-SUFFIX,members.3322.org
-# Windows 网络连接探测
-DOMAIN-SUFFIX,msftconnecttest.com
-DOMAIN-SUFFIX,msftncsi.com
 # 松下智能家居
 DOMAIN-SUFFIX,psmartcloud.com
 # Akamai CDN
