@@ -53,29 +53,32 @@ HOST-SUFFIX,deepmind.com,AI
 HOST-SUFFIX,deepmind.google,AI
 HOST-SUFFIX,gemini.google.com,AI
 HOST-SUFFIX,generativeai.google,AI
-#HOST-SUFFIX,apis.google.com,AI
-HOST-KEYWORD,colab,AI
-HOST-KEYWORD,developerprofiles,AI
-HOST-KEYWORD,generativelanguage,AI
-#HOST-SUFFIX,clients6.google.com,AI
 HOST-SUFFIX,notebooklm.google,AI
 HOST-SUFFIX,notebooklm.google.com,AI
 HOST-SUFFIX,aistudio.google.com,AI
+HOST-SUFFIX,colab.google.com,AI
+HOST-SUFFIX,colab.research.google.com,AI
+HOST-SUFFIX,developerprofiles.google.com,AI
+HOST-SUFFIX,googleusercontent.com,AI
 HOST-SUFFIX,us-central1-aiplatform.googleapis.com,AI
-# xAI
+HOST-SUFFIX,us-east4-aiplatform.googleapis.com,AI
+HOST-SUFFIX,us-south1-aiplatform.googleapis.com,AI
+# Grok
 HOST-SUFFIX,x.ai,AI
+HOST-SUFFIX,grok.com,AI
 # Perplexity
 HOST-SUFFIX,perplexity.ai,AI
 HOST-SUFFIX,fscdn.eppo.cloud,AI
 HOST-SUFFIX,api.revenuecat.com,AI
 HOST-SUFFIX,stripecdn.com,AI
 HOST-SUFFIX,stripe.network,AI
+HOST-SUFFIX,pplx-res.cloudinary.com,AI
+HOST-SUFFIX,pplx.ai,AI
 # together.ai
 HOST-SUFFIX,together.ai,AI
 # POE
 HOST-SUFFIX,poe.com,AI
+HOST-SUFFIX,poecdn.net,AI
 # GMI
 HOST-SUFFIX,gmi-serving.com,AI
 HOST-SUFFIX,gmicloud.ai,AI
-# Adobe
-HOST-KEYWORD,adobe,AI
