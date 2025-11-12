@@ -64,9 +64,6 @@ HOST-SUFFIX,aistudio.google.com,AI
 HOST-SUFFIX,us-central1-aiplatform.googleapis.com,AI
 # xAI
 HOST-SUFFIX,x.ai,AI
-# DeepSeek
-HOST-SUFFIX,deepseek.com,AI
-HOST-SUFFIX,volces.com,AI
 # Perplexity
 HOST-SUFFIX,perplexity.ai,AI
 HOST-SUFFIX,fscdn.eppo.cloud,AI
