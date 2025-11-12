@@ -2,11 +2,6 @@
 DOMAIN-SUFFIX,services.googleapis.cn
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-# 沉浸式翻译
-DOMAIN-SUFFIX,owenyoung.com
-DOMAIN-SUFFIX,immersivetranslate.cn
-DOMAIN-SUFFIX,immersivetranslate.com
-DOMAIN-SUFFIX,immersive-translate.deno.dev
 #thanox
 DOMAIN-SUFFIX,emui.tech
 # 雨见浏览器
@@ -15,6 +10,11 @@ DOMAIN-SUFFIX,yjbrowser.cn
 DOMAIN-SUFFIX,yjllq.com
 DOMAIN-SUFFIX,yujianpay.com
 DOMAIN-SUFFIX,ktllq.cn
+# 沉浸式翻译
+DOMAIN-SUFFIX,owenyoung.com
+DOMAIN-SUFFIX,immersivetranslate.cn
+DOMAIN-SUFFIX,immersivetranslate.com
+DOMAIN-SUFFIX,immersive-translate.deno.dev
 # 富途牛牛
 DOMAIN-SUFFIX,moomoo.com
 # Apple
