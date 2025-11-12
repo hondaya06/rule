@@ -77,21 +77,5 @@ HOST-SUFFIX,poe.com,AI
 # GMI
 HOST-SUFFIX,gmi-serving.com,AI
 HOST-SUFFIX,gmicloud.ai,AI
-# Apple Intelligence
-#HOST-SUFFIX,apple-relay.cloudflare.com,AI
-#HOST-SUFFIX,apple-relay.apple.com,AI
-#HOST-SUFFIX,guzzoni.apple.com,AI
-#HOST-SUFFIX,xp.apple.com,AI
-#HOST-SUFFIX,smoot.apple.com,AI
-#HOST-SUFFIX,ocsp2.apple.com,AI
-#HOST-SUFFIX,configuration.apple.com,AI
-#HOST-SUFFIX,appleid.cdn-apple.com,AI
-#HOST-SUFFIX,gdmf-ados.apple.com,AI
-#HOST-SUFFIX,mesu.apple.com,AI
-#HOST-SUFFIX,bag.itunes.apple.com,AI
-#HOST-SUFFIX,cl2.apple.com,AI
-#HOST-SUFFIX,swscan.apple.com,AI
-#HOST-SUFFIX,gdmf.apple.com,AI
-#HOST-SUFFIX,app-site-association.cdn-apple.com,AI
 # Adobe
 HOST-KEYWORD,adobe,AI
