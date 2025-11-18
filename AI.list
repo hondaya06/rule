@@ -60,6 +60,7 @@ DOMAIN-SUFFIX,colab.google.com
 DOMAIN-SUFFIX,colab.research.google.com
 DOMAIN-SUFFIX,developerprofiles.google.com
 DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
 DOMAIN-SUFFIX,us-central1-aiplatform.googleapis.com
 DOMAIN-SUFFIX,us-east4-aiplatform.googleapis.com
 DOMAIN-SUFFIX,us-south1-aiplatform.googleapis.com
