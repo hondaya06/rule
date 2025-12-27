@@ -1,0 +1,5 @@
+# apple
+HOST-SUFFIX,captive.apple.com,direct
+HOST-SUFFIX,push.apple.com,direct
+HOST-SUFFIX,time.apple.com,direct
+HOST-SUFFIX,ocsp2.apple.com,direct
