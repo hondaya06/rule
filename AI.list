@@ -36,7 +36,6 @@ IP-ASN,20473,no-resolve
 DOMAIN,cdn.usefathom.com
 DOMAIN-SUFFIX,webpubsub.azure.com
 DOMAIN-SUFFIX,livekit.cloud
-DOMAIN-SUFFIX,lh3.googleusercontent.com
 # Claude
 DOMAIN,cdn.usefathom.com
 DOMAIN-SUFFIX,anthropic.com
