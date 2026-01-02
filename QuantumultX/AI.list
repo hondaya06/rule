@@ -36,7 +36,6 @@ IP-ASN,20473,AI
 HOST,cdn.usefathom.com,AI
 HOST-SUFFIX,webpubsub.azure.com,AI
 HOST-SUFFIX,livekit.cloud,AI
-HOST-SUFFIX,lh3.googleusercontent.com,AI
 # DeepSeek
 HOST-SUFFIX,deepseek.com,AI
 HOST,gator.volces.com,AI
