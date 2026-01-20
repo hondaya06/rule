@@ -72,3 +72,9 @@ DOMAIN,apple-relay.fastly-edge.com
 DOMAIN,apple-relay.apple.com
 DOMAIN,apple-relay.cloudflare.com
 DOMAIN,cp4.cloudflare.com
+DOMAIN,gateway.icloud.com
+DOMAIN,gateway.fe2.apple-dns.net
+DOMAIN,seed.siri.apple.com
+DOMAIN-SUFFIX,v.aaplimg.com
+DOMAIN,seed-siri-apple-com.v.aaplimg.com
+DOMAIN,smoot-searchv2-aapse1c.v.aaplimg.com
