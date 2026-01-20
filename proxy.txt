@@ -1,3 +1,5 @@
+##Apple AI
+DOMAIN-SUFFIX,guzzoni.smoot.apple.com
 ##解决绕过大陆后谷歌商店无法更新
 DOMAIN-SUFFIX,services.googleapis.cn
 DOMAIN-SUFFIX,googleapis.cn
