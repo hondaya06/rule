@@ -1,5 +1,4 @@
 # Apple AI
-DOMAIN-SUFFIX,mesu.apple.com
 DOMAIN-SUFFIX,smoot.apple.com
 DOMAIN,guzzoni.apple.com
 DOMAIN,gspe1-ssl.ls.apple.com
@@ -16,6 +15,8 @@ DOMAIN,seed-siri-apple-com.v.aaplimg.com
 DOMAIN,smoot-searchv2-aapse1c.v.aaplimg.com
 DOMAIN,pancake.apple.com
 DOMAIN,mask-api.icloud.com
+DOMAIN-SUFFIX,itunes.apple.com
+DOMAIN-SUFFIX,mesu.apple.com
 # 解决绕过大陆后谷歌商店无法更新
 DOMAIN-SUFFIX,services.googleapis.cn
 DOMAIN-SUFFIX,googleapis.cn
