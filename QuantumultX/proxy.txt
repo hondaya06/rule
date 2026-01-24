@@ -52,3 +52,13 @@ HOST-SUFFIX,apple-relay.cloudflare.com,proxy
 HOST,guzzoni.apple.com,proxy
 HOST-SUFFIX,cp4.cloudflare.com,proxy
 HOST-SUFFIX,gspe1-ssl.ls.apple.com,proxy
+HOST-SUFFIX,smoot.apple.com,proxy
+HOST,apple-relay.mask.apple-dns.net,proxy
+HOST,gateway.fe2.apple-dns.net,proxy
+HOST,seed.siri.apple.com,proxy
+HOST-SUFFIX,v.aaplimg.com,proxy
+HOST,seed-siri-apple-com.v.aaplimg.com,proxy
+HOST,smoot-searchv2-aapse1c.v.aaplimg.com,proxy
+HOST,pancake.apple.com,proxy
+HOST,mask-api.icloud.com,proxy
+HOST-SUFFIX,mesu.apple.com,proxy
