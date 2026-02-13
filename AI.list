@@ -62,4 +62,8 @@ DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,poecdn.net
 # GMI
 DOMAIN-SUFFIX,gmi-serving.com
+# kimi
+DOMAIN-SUFFIX,kimi.com
+DOMAIN-SUFFIX,moonshot.cn
+
 DOMAIN-SUFFIX,gmicloud.ai
