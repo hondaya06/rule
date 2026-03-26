@@ -1,9 +1,6 @@
 # DeepSeek
 DOMAIN-SUFFIX,deepseek.com
 DOMAIN,gator.volces.com
-# GMI
-DOMAIN-SUFFIX,gmi-serving.com
-DOMAIN-SUFFIX,gmicloud.ai
 # kimi
 DOMAIN-SUFFIX,kimi.com
 DOMAIN-SUFFIX,moonshot.cn
