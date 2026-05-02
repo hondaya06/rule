@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,immersive-translate.deno.dev
 # 富途牛牛
 DOMAIN-SUFFIX,moomoo.com
 # Apple
+DOMAIN-SUFFIX,push.apple.com
 DOMAIN,api-glb-sea.smoot.apple.com
 DOMAIN,apple.comscoreresearch.com
 DOMAIN,books.itunes.apple.com
