@@ -6,7 +6,10 @@ HOST-SUFFIX,immersive-translate.deno.dev,proxy
 # 富途牛牛
 HOST-SUFFIX,moomoo.com,proxy
 # Apple
-HOST,push.apple.com,proxy
+HOST,identity.apple.com,proxy
+HOST-SUFFIX,akadns.net,proxy
+HOST-SUFFIX,push.apple.com,proxy
+HOST-KEYWORD,apple.com.edgekey.net,proxy
 HOST,api-glb-sea.smoot.apple.com,proxy
 HOST,apple.comscoreresearch.com,proxy
 HOST,books.itunes.apple.com,proxy
