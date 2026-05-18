@@ -66,4 +66,5 @@ HOST,smoot-searchv2-aapse1c.v.aaplimg.com,proxy
 HOST,pancake.apple.com,proxy
 HOST,mask-api.icloud.com,proxy
 HOST-SUFFIX,mesu.apple.com,proxy
+# 其他
 HOST-SUFFIX,my.rfchost.com,proxy
