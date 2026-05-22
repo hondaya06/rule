@@ -6,4 +6,4 @@ HOST-SUFFIX,immersive-translate.deno.dev,proxy
 # 富途牛牛
 HOST-SUFFIX,moomoo.com,proxy
 # 其他
-HOST-SUFFIX,my.rfchost.com,proxy
+HOST-SUFFIX,rfchost.com,proxy
