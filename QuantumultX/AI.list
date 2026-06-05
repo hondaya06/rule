@@ -66,3 +66,6 @@ HOST,pancake.apple.com,proxy
 HOST,mask-api.icloud.com,proxy
 HOST-SUFFIX,mesu.apple.com,proxy
 HOST-KEYWORD,apple-relay,proxy
+#其他
+#openai
+HOST-SUFFIX,oaistatsig.com
