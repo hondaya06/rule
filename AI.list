@@ -76,3 +76,6 @@ DOMAIN,pancake.apple.com
 DOMAIN,mask-api.icloud.com
 DOMAIN-SUFFIX,mesu.apple.com
 DOMAIN-KEYWORD,apple-relay
+#其他
+#openai
+DOMAIN-SUFFIX,oaistatsig.com
