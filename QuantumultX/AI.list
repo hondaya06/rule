@@ -69,3 +69,5 @@ HOST-KEYWORD,apple-relay,proxy
 #其他
 #openai
 HOST-SUFFIX,oaistatsig.com
+HOST-SUFFIX,revenuecat.com
+
