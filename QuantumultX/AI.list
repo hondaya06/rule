@@ -1,17 +1,24 @@
 # DeepSeek
 HOST-SUFFIX,deepseek.com,AI
 HOST,gator.volces.com,AI
-# GMI
-HOST-SUFFIX,gmi-serving.com,AI
-HOST-SUFFIX,gmicloud.ai,AI
 # Apple
 HOST,identity.apple.com,AI
 HOST-SUFFIX,akadns.net,AI
 HOST-SUFFIX,push.apple.com,AI
 HOST-KEYWORD,apple.com.edgekey.net,AI
+IP-CIDR,17.188.128.0/18,AI
+IP-CIDR,17.188.20.0/23,AI
+IP-CIDR,17.249.0.0/16,AI
+IP-CIDR,17.252.0.0/16,AI
+IP-CIDR,17.57.144.0/22,AI
+IP-CIDR6,2403:300:a42::/48,AI
+IP-CIDR6,2403:300:a51::/48,AI
+IP-CIDR6,2620:149:a44::/48,AI
+IP-CIDR6,2a01:b740:a42::/48,AI
 HOST,api-glb-sea.smoot.apple.com,AI
 HOST,apple.comscoreresearch.com,AI
 HOST,books.itunes.apple.com,AI
+HOST,bookkeeper.itunes.apple.com,AI
 HOST,cdn.apple-cloudkit.com,AI
 HOST,cvws.icloud-content.com,AI
 HOST,developer.apple.com,AI
