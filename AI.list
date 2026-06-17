@@ -1,9 +1,6 @@
 # DeepSeek
 DOMAIN-SUFFIX,deepseek.com
 DOMAIN,gator.volces.com
-# kimi
-DOMAIN-SUFFIX,kimi.com
-DOMAIN-SUFFIX,moonshot.cn
 # Apple
 DOMAIN,identity.apple.com
 DOMAIN-SUFFIX,akadns.net
