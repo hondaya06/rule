@@ -2,14 +2,6 @@
 DOMAIN-SUFFIX,services.googleapis.cn
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-#thanox
-DOMAIN-SUFFIX,emui.tech
-# 雨见浏览器
-DOMAIN-SUFFIX,rainsee.cn
-DOMAIN-SUFFIX,yjbrowser.cn
-DOMAIN-SUFFIX,yjllq.com
-DOMAIN-SUFFIX,yujianpay.com
-DOMAIN-SUFFIX,ktllq.cn
 # 沉浸式翻译
 DOMAIN-SUFFIX,owenyoung.com
 DOMAIN-SUFFIX,immersivetranslate.cn
