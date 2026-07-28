@@ -57,6 +57,7 @@ DOMAIN-SUFFIX,apps.apple.com
 DOMAIN-SUFFIX,appsto.re
 DOMAIN-SUFFIX,audio-ssl.itunes.apple.com
 DOMAIN-SUFFIX,blobstore.apple.com
+DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,hls-amt.itunes.apple.com
 DOMAIN-SUFFIX,hls.itunes.apple.com
