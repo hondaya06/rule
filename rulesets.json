@@ -4,8 +4,8 @@
     {"source": "F1TV.list", "name": "F1TV", "quantumult_x": "QuantumultX/F1TV.list", "policy": "F1TV"},
     {"source": "Home.list", "name": "Home", "quantumult_x": "QuantumultX/Home.list", "policy": "direct"},
     {"source": "direct.list", "name": "direct", "quantumult_x": "QuantumultX/direct.list", "policy": "direct"},
-    {"source": "proxy.txt", "name": "proxy", "quantumult_x": "QuantumultX/proxy.txt", "policy": "proxy"},
-    {"source": "reject.yaml", "name": "reject", "quantumult_x": "QuantumultX/reject.list", "policy": "reject"},
+    {"source": "proxy.list", "name": "proxy", "quantumult_x": "QuantumultX/proxy.list", "policy": "proxy"},
+    {"source": "reject.list", "name": "reject", "quantumult_x": "QuantumultX/reject.list", "policy": "reject"},
     {"source": "SpeedtestInternational.yaml", "name": "SpeedtestInternational", "quantumult_x": "QuantumultX/SpeedtestInternational.list", "policy": "SpeedtestInternational"}
   ]
 }

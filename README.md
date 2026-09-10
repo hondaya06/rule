@@ -17,8 +17,8 @@ client configuration.
 | `F1TV.list` | `QuantumultX/F1TV.list` / `F1TV` | `F1TV.json`, `F1TV.srs` |
 | `Home.list` | `QuantumultX/Home.list` / `direct` | `Home.json`, `Home.srs` |
 | `direct.list` | `QuantumultX/direct.list` / `direct` | `direct.json`, `direct.srs` |
-| `proxy.txt` | `QuantumultX/proxy.txt` / `proxy` | `proxy.json`, `proxy.srs` |
-| `reject.yaml` | `QuantumultX/reject.list` / `reject` | `reject.json`, `reject.srs` |
+| `proxy.list` | `QuantumultX/proxy.list` / `proxy` | `proxy.json`, `proxy.srs` |
+| `reject.list` | `QuantumultX/reject.list` / `reject` | `reject.json`, `reject.srs` |
 | `SpeedtestInternational.yaml` | `QuantumultX/SpeedtestInternational.list` / `SpeedtestInternational` | `SpeedtestInternational.json`, `SpeedtestInternational.srs` |
 
 The converter accepts ordinary classical text and a strict Clash `payload:` YAML
