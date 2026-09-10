@@ -52,7 +52,7 @@ This repository does not generate or modify client subscription configuration.
 ## Third-party sing-box rules
 
 The existing **Convert rules** GitHub Action also downloads and converts the ten
-lists in `third-party-rulesets.json`, every six hours at minute 17 UTC and on
+lists in `third-party-rulesets.json`, daily at 00:17 UTC and on
 manual dispatch or relevant source changes. Each successful run compiles all
 custom and third-party rule sets with the pinned, SHA-256-verified sing-box
 1.14.0 binary, then commits changed outputs. Runs with no changes do not commit.
