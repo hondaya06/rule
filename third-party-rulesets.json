@@ -1,0 +1,54 @@
+{
+  "rulesets": [
+    {
+      "name": "limbopro-Adblock4limbo",
+      "url": "https://raw.githubusercontent.com/limbopro/Adblock4limbo/main/QuantumultX/rule/Adblock4limbo.list",
+      "min_rules": 271
+    },
+    {
+      "name": "limbopro-BanAD",
+      "url": "https://raw.githubusercontent.com/limbopro/Adblock4limbo/main/QuantumultX/rule/BanAD.list",
+      "min_rules": 294
+    },
+    {
+      "name": "blackmatrix7-OpenAI",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/OpenAI/OpenAI.list",
+      "min_rules": 17
+    },
+    {
+      "name": "blackmatrix7-Claude",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Claude/Claude.list",
+      "min_rules": 1
+    },
+    {
+      "name": "blackmatrix7-Gemini",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Gemini/Gemini.list",
+      "min_rules": 6
+    },
+    {
+      "name": "blackmatrix7-YouTube",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/YouTube/YouTube.list",
+      "min_rules": 98
+    },
+    {
+      "name": "blackmatrix7-Microsoft",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Microsoft/Microsoft.list",
+      "min_rules": 356
+    },
+    {
+      "name": "blackmatrix7-Telegram",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Telegram/Telegram.list",
+      "min_rules": 20
+    },
+    {
+      "name": "blackmatrix7-WeChat",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/WeChat/WeChat.list",
+      "min_rules": 21
+    },
+    {
+      "name": "blackmatrix7-ChinaMaxNoIP",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/ChinaMaxNoIP/ChinaMaxNoIP.list",
+      "min_rules": 55536
+    }
+  ]
+}

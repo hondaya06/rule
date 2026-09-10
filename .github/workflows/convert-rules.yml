@@ -8,9 +8,13 @@ on:
       - '*.txt'
       - '*.yaml'
       - 'rulesets.json'
+      - 'third-party-rulesets.json'
       - 'scripts/**'
       - 'tests/**'
       - '.github/workflows/convert-rules.yml'
+  schedule:
+    # Every six hours, away from the busy top of the hour (UTC).
+    - cron: '17 */6 * * *'
   workflow_dispatch:
 
 permissions:
@@ -28,14 +32,19 @@ jobs:
   convert:
     if: github.event_name != 'push' || !contains(github.event.head_commit.message, '[skip ci]')
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          ref: ${{ github.ref_name }}
 
       - name: Convert source rules
         run: python3 scripts/convert_rules.py
+
+      - name: Fetch and convert third-party rules
+        run: python3 scripts/convert_third_party.py
 
       - name: Run converter tests
         run: python3 -m unittest discover -s tests -v
@@ -77,16 +86,18 @@ jobs:
           test "$(find sing-box/source -type f -name '*.json' | wc -l)" -eq "$(find sing-box/srs -type f -name '*.srs' | wc -l)"
 
       - name: Verify generated files are stable
-        run: python3 scripts/convert_rules.py --check
+        run: |
+          python3 scripts/convert_rules.py --check
+          python3 scripts/convert_third_party.py --check
 
       - name: Commit generated files
         run: |
-          if git diff --quiet -- QuantumultX sing-box; then
+          git add QuantumultX sing-box
+          if git diff --cached --quiet; then
             echo 'Generated files are already current.'
             exit 0
           fi
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add QuantumultX sing-box
           git commit -m 'chore: update generated rules [skip ci]'
           git push
