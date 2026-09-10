@@ -1,0 +1,25 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "deepseek.com"
+      ]
+    },
+    {
+      "domain": [
+        "gator.volces.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "oaistatsig.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "revenuecat.com"
+      ]
+    }
+  ]
+}

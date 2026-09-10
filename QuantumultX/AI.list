@@ -1,6 +1,6 @@
-# DeepSeek
+# Generated from /AI.list by scripts/convert_rules.py; do not edit.
+# Policy: AI
 HOST-SUFFIX,deepseek.com,AI
 HOST,gator.volces.com,AI
-#openai
 HOST-SUFFIX,oaistatsig.com,AI
 HOST-SUFFIX,revenuecat.com,AI

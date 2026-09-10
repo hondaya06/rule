@@ -1,0 +1,50 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_keyword": [
+        "formula1"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "f1prodlive.akamaized.net"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "formula1.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "f1esports.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "f1manager.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "f1play.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "bitmovin.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "d2n9h2wits23hf.cloudfront.net"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "contentdirect.tv"
+      ]
+    }
+  ]
+}

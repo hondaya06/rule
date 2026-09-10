@@ -1,0 +1,92 @@
+name: Convert rules
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '*.list'
+      - '*.txt'
+      - '*.yaml'
+      - 'rulesets.json'
+      - 'scripts/**'
+      - 'tests/**'
+      - '.github/workflows/convert-rules.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: convert-rules-${{ github.ref }}
+  cancel-in-progress: false
+
+env:
+  SING_BOX_VERSION: '1.14.0'
+  SING_BOX_LINUX_AMD64_SHA256: '2375de6999f4f56ab46b4fc5ddf26a6aba1d3e61a0f4e7ddec2f4690457d5f63'
+
+jobs:
+  convert:
+    if: github.event_name != 'push' || !contains(github.event.head_commit.message, '[skip ci]')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Convert source rules
+        run: python3 scripts/convert_rules.py
+
+      - name: Run converter tests
+        run: python3 -m unittest discover -s tests -v
+
+      - name: Validate generated JSON
+        run: |
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          files = sorted(Path('sing-box/source').glob('*.json'))
+          if not files:
+              raise SystemExit('no sing-box JSON files generated')
+          for path in files:
+              data = json.loads(path.read_text(encoding='utf-8'))
+              if data.get('version') != 3 or not data.get('rules'):
+                  raise SystemExit(f'invalid rule-set: {path}')
+              print(f'{path}: {len(data["rules"])} rules')
+          PY
+
+      - name: Download pinned official sing-box
+        run: |
+          archive="sing-box-${SING_BOX_VERSION}-linux-amd64.tar.gz"
+          url="https://github.com/SagerNet/sing-box/releases/download/v${SING_BOX_VERSION}/${archive}"
+          curl --fail --location --retry 3 --output "/tmp/${archive}" "$url"
+          echo "${SING_BOX_LINUX_AMD64_SHA256}  /tmp/${archive}" | sha256sum --check --strict
+          tar -xzf "/tmp/${archive}" -C /tmp
+          install -m 0755 "/tmp/sing-box-${SING_BOX_VERSION}-linux-amd64/sing-box" /tmp/sing-box
+          /tmp/sing-box version
+
+      - name: Compile sing-box SRS rule sets
+        run: |
+          set -euo pipefail
+          mkdir -p sing-box/srs
+          find sing-box/srs -type f -name '*.srs' -delete
+          for source in sing-box/source/*.json; do
+            name="$(basename "$source" .json)"
+            /tmp/sing-box rule-set compile --output "sing-box/srs/${name}.srs" "$source"
+          done
+          test "$(find sing-box/source -type f -name '*.json' | wc -l)" -eq "$(find sing-box/srs -type f -name '*.srs' | wc -l)"
+
+      - name: Verify generated files are stable
+        run: python3 scripts/convert_rules.py --check
+
+      - name: Commit generated files
+        run: |
+          if git diff --quiet -- QuantumultX sing-box; then
+            echo 'Generated files are already current.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add QuantumultX sing-box
+          git commit -m 'chore: update generated rules [skip ci]'
+          git push

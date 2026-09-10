@@ -1,1 +1,3 @@
+# Generated from /reject.yaml by scripts/convert_rules.py; do not edit.
+# Policy: reject
 HOST-SUFFIX,msmp.abchina.com.cn,reject

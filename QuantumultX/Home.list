@@ -1,0 +1,4 @@
+# Generated from /Home.list by scripts/convert_rules.py; do not edit.
+# Policy: direct
+IP-CIDR,192.168.1.0/24,direct
+IP-CIDR,100.96.61.99/32,direct

@@ -1,0 +1,395 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "services.googleapis.cn"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "googleapis.cn"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "xn--ngstr-lra8j.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "owenyoung.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "immersivetranslate.cn"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "immersivetranslate.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "immersive-translate.deno.dev"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "moomoo.com"
+      ]
+    },
+    {
+      "domain": [
+        "identity.apple.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "akadns.net"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "push.apple.com"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "apple.com.edgekey.net"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "17.188.128.0/18"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "17.188.20.0/23"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "17.249.0.0/16"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "17.252.0.0/16"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "17.57.144.0/22"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "2403:300:a42::/48"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "2403:300:a51::/48"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "2620:149:a44::/48"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "2a01:b740:a42::/48"
+      ]
+    },
+    {
+      "domain": [
+        "api-glb-sea.smoot.apple.com"
+      ]
+    },
+    {
+      "domain": [
+        "apple.comscoreresearch.com"
+      ]
+    },
+    {
+      "domain": [
+        "books.itunes.apple.com"
+      ]
+    },
+    {
+      "domain": [
+        "bookkeeper.itunes.apple.com"
+      ]
+    },
+    {
+      "domain": [
+        "cdn.apple-cloudkit.com"
+      ]
+    },
+    {
+      "domain": [
+        "cvws.icloud-content.com"
+      ]
+    },
+    {
+      "domain": [
+        "developer.apple.com"
+      ]
+    },
+    {
+      "domain": [
+        "devimages-cdn.apple.com"
+      ]
+    },
+    {
+      "domain": [
+        "devstreaming-cdn.apple.com"
+      ]
+    },
+    {
+      "domain": [
+        "docs-assets.developer.apple.com"
+      ]
+    },
+    {
+      "domain": [
+        "gspe1-ssl.ls.apple.com"
+      ]
+    },
+    {
+      "domain": [
+        "hls-svod.itunes.apple.com"
+      ]
+    },
+    {
+      "domain": [
+        "itunes.apple.com"
+      ]
+    },
+    {
+      "domain": [
+        "js-cdn.music.apple.com"
+      ]
+    },
+    {
+      "domain": [
+        "lookup-api.apple.com"
+      ]
+    },
+    {
+      "domain": [
+        "mask-api.icloud.com"
+      ]
+    },
+    {
+      "domain": [
+        "mask-h2.icloud.com"
+      ]
+    },
+    {
+      "domain": [
+        "mask.icloud.com"
+      ]
+    },
+    {
+      "domain": [
+        "news-assets.apple.com"
+      ]
+    },
+    {
+      "domain": [
+        "news-client.apple.com"
+      ]
+    },
+    {
+      "domain": [
+        "news-edge.apple.com"
+      ]
+    },
+    {
+      "domain": [
+        "news-events.apple.com"
+      ]
+    },
+    {
+      "domain": [
+        "np-edge.itunes.apple.com"
+      ]
+    },
+    {
+      "domain": [
+        "play-edge.itunes.apple.com"
+      ]
+    },
+    {
+      "domain": [
+        "sandbox.itunes.apple.com"
+      ]
+    },
+    {
+      "domain": [
+        "testflight.apple.com"
+      ]
+    },
+    {
+      "domain": [
+        "tv.applemusic.com"
+      ]
+    },
+    {
+      "domain": [
+        "uts-api.itunes.apple.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "apple-dns.net"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "apple.news"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "apps.apple.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "appsto.re"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "audio-ssl.itunes.apple.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "blobstore.apple.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "cdn-apple.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "digicert.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "hls-amt.itunes.apple.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "hls.itunes.apple.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "ocsp.apple.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "tv.apple.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "gateway.icloud.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "apple-relay.apple.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "apple-relay.fastly-edge.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "apple-relay.cloudflare.com"
+      ]
+    },
+    {
+      "domain": [
+        "guzzoni.apple.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "cp4.cloudflare.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "gspe1-ssl.ls.apple.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "smoot.apple.com"
+      ]
+    },
+    {
+      "domain": [
+        "apple-relay.mask.apple-dns.net"
+      ]
+    },
+    {
+      "domain": [
+        "gateway.fe2.apple-dns.net"
+      ]
+    },
+    {
+      "domain": [
+        "seed.siri.apple.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "v.aaplimg.com"
+      ]
+    },
+    {
+      "domain": [
+        "seed-siri-apple-com.v.aaplimg.com"
+      ]
+    },
+    {
+      "domain": [
+        "smoot-searchv2-aapse1c.v.aaplimg.com"
+      ]
+    },
+    {
+      "domain": [
+        "pancake.apple.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "mesu.apple.com"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "apple-relay"
+      ]
+    }
+  ]
+}

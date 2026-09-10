@@ -1,0 +1,655 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "captive.apple.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "time.apple.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "ocsp2.apple.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "ip.3322.net"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "myip.ipip.net"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "4.ipw.cn"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "quickconnect"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "checkip.dyndns.org"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "checkipv6.dyndns.org"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "ifconfig.co"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "api.myip.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "immortalwrt.org"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "vsean.net"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "kit327.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "ipapi.co"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "ip6.seeip.org"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "members.3322.org"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "psmartcloud.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "akamaihd.net"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "5.5.5.5/32"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "ddsrem.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "ipinfo.io"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "ggbond.org"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "nn.ci"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "xhofe.top"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "wwwh.eu.org"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "1996999.xyz"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "cjjd19.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "powershellgallery.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "pool.ntp.org"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "dell.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "blizzard.gcdn.cloudn.co.kr"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "level3.blizzard.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "kr.cdn.blizzard.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "us.cdn.blizzard.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "eu.cdn.blizzard.com"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "137.221.64.0/24"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "8.251.135.126/32"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "8.251.246.126/32"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "104.75.169.19/32"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "netease.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "leihuo.netease.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "ssl-lvlt.cdn.ea.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "steamcontent.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "steamusercontent.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "origin-a.akamaihd.net"
+      ]
+    },
+    {
+      "domain": [
+        "content1.steampowered.com"
+      ]
+    },
+    {
+      "domain": [
+        "content2.steampowered.com"
+      ]
+    },
+    {
+      "domain": [
+        "content3.steampowered.com"
+      ]
+    },
+    {
+      "domain": [
+        "content4.steampowered.com"
+      ]
+    },
+    {
+      "domain": [
+        "content5.steampowered.com"
+      ]
+    },
+    {
+      "domain": [
+        "content6.steampowered.com"
+      ]
+    },
+    {
+      "domain": [
+        "content7.steampowered.com"
+      ]
+    },
+    {
+      "domain": [
+        "content8.steampowered.com"
+      ]
+    },
+    {
+      "domain": [
+        "client-download.steampowered.com"
+      ]
+    },
+    {
+      "domain": [
+        "content-origin.steampowered.com"
+      ]
+    },
+    {
+      "domain": [
+        "clientconfig.akamai.steamtransparent.com"
+      ]
+    },
+    {
+      "domain": [
+        "steampipe.akamaized.net"
+      ]
+    },
+    {
+      "domain": [
+        "steam.apac.qtlglb.com.mwcloudcdn.com"
+      ]
+    },
+    {
+      "domain": [
+        "cdn1-sea1.valve.net"
+      ]
+    },
+    {
+      "domain": [
+        "cdn2-sea1.valve.net"
+      ]
+    },
+    {
+      "domain": [
+        "steam.apac.qtlglb.com"
+      ]
+    },
+    {
+      "domain": [
+        "edge.steam-dns.top.comcast.net"
+      ]
+    },
+    {
+      "domain": [
+        "edge.steam-dns-2.top.comcast.net"
+      ]
+    },
+    {
+      "domain": [
+        "steam.naeu.qtlglb.com"
+      ]
+    },
+    {
+      "domain": [
+        "steampipe-kr.akamaized.net"
+      ]
+    },
+    {
+      "domain": [
+        "steam.ix.asn.au"
+      ]
+    },
+    {
+      "domain": [
+        "steam.eca.qtlglb.com"
+      ]
+    },
+    {
+      "domain": [
+        "steam.cdn.on.net"
+      ]
+    },
+    {
+      "domain": [
+        "update5.dota2.wmsj.cn"
+      ]
+    },
+    {
+      "domain": [
+        "update2.dota2.wmsj.cn"
+      ]
+    },
+    {
+      "domain": [
+        "update6.dota2.wmsj.cn"
+      ]
+    },
+    {
+      "domain": [
+        "update3.dota2.wmsj.cn"
+      ]
+    },
+    {
+      "domain": [
+        "update1.dota2.wmsj.cn"
+      ]
+    },
+    {
+      "domain": [
+        "update4.dota2.wmsj.cn"
+      ]
+    },
+    {
+      "domain": [
+        "update5.csgo.wmsj.cn"
+      ]
+    },
+    {
+      "domain": [
+        "update2.csgo.wmsj.cn"
+      ]
+    },
+    {
+      "domain": [
+        "update4.csgo.wmsj.cn"
+      ]
+    },
+    {
+      "domain": [
+        "update3.csgo.wmsj.cn"
+      ]
+    },
+    {
+      "domain": [
+        "update6.csgo.wmsj.cn"
+      ]
+    },
+    {
+      "domain": [
+        "update1.csgo.wmsj.cn"
+      ]
+    },
+    {
+      "domain": [
+        "st.dl.bscstorage.net"
+      ]
+    },
+    {
+      "domain": [
+        "cdn.mileweb.cs.steampowered.com.8686c.com"
+      ]
+    },
+    {
+      "domain": [
+        "steamcdn-a.akamaihd.net"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "content.steampowered.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "hsar.steampowered.com.edgesuite.net"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "akamai.steamstatic.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "cs.steampowered.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "cm.steampowered.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "edgecast.steamstatic.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "steam-content-dnld-1.apac-1-cdn.cqloud.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "steam-content-dnld-1.eu-c1-cdn.cqloud.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "steam-content-dnld-1.qwilted-cds.cqloud.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "gamedownloads-rockstargames-com.akamaized.net"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "epicgames-download1.akamaized.net"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "fastly-download.epicgames.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "cloudflare.epicgamescdn.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "epicgames-download1-1251447533.file.myqcloud.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "blzddist1-a.akamaihd.net"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "blzddistkr1-a.akamaihd.net"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "level3.ssl.blizzard.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "gog-cdn.akamaized.net"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "xvcf1.xboxlive.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "xvcf2.xboxlive.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "assets1.xboxlive.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "assets2.xboxlive.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "uplaypc-s-ubisoft.cdn.ubi.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "uplaypc-s-ubisoft-ww.cdn.ubi.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "ubisoftconnect.cdn.ubi.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "uplaypc-s-ubisoft.cdn.ubionline.com.cn"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "steampipe.akamaized.net"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "steampipe-kr.akamaized.net"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "steampipe-partner.akamaized.net"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "akamai.cdn.steampipe.steamcontent.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "fastly.cdn.steampipe.steamcontent.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "steam.eca.qtlglb.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "steam.naeu.qtlglb.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "steam.ru.qtlglb.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "edge.steam-dns.top.comcast.net"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "patch-dl.ffxiv.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "qbittorrent.org"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "aria2"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "thunder"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "xlliveud"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "xunlei"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "yunpan"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "cdnfe.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "riskbird.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "qiyedata.net"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "skyee360.com"
+      ]
+    }
+  ]
+}
