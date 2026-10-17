@@ -1,3 +1,4 @@
 # Generated from /reject.list by scripts/convert_rules.py; do not edit.
 # Policy: reject
 HOST-SUFFIX,msmp.abchina.com.cn,reject
+HOST-SUFFIX,qrstuvwxyzab.com,reject
