@@ -26,7 +26,7 @@
       "min_rules": 17,
       "sha256": "6ec16f5da986a15c62e80192f5b445dcdaf88607987923120761c1388eeb243d",
       "input_rules": 35,
-      "converted_values": 3089,
+      "converted_values": 3101,
       "asn": [
         "20473"
       ],
@@ -167,279 +167,269 @@
       "name": "blackmatrix7-ChinaMaxNoIP",
       "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/ChinaMaxNoIP/ChinaMaxNoIP.list",
       "min_rules": 55536,
-      "sha256": "654be94372a35621161842584f5a2133072d0084bcb92e5afbca63efc2e8c740",
-      "input_rules": 110497,
-      "converted_values": 110432,
+      "sha256": "5b9955293245180e949771f1fe163e21bcad89d83830f6cc77a7db80d2fa5ff1",
+      "input_rules": 110499,
+      "converted_values": 110434,
       "asn": [],
       "skipped": [
         {
-          "line": 110443,
+          "line": 110445,
           "rule": "USER-AGENT,*bili*,ChinaMaxNoIP",
           "reason": "sing-box has no USER-AGENT matcher"
         },
         {
-          "line": 110444,
+          "line": 110446,
           "rule": "USER-AGENT,Bilibili*,ChinaMaxNoIP",
           "reason": "sing-box has no USER-AGENT matcher"
         },
         {
-          "line": 110445,
+          "line": 110447,
           "rule": "USER-AGENT,bili*,ChinaMaxNoIP",
           "reason": "sing-box has no USER-AGENT matcher"
         },
         {
-          "line": 110446,
+          "line": 110448,
           "rule": "USER-AGENT,bili-inter*,ChinaMaxNoIP",
           "reason": "sing-box has no USER-AGENT matcher"
         },
         {
-          "line": 110447,
+          "line": 110449,
           "rule": "USER-AGENT,TikTok*,ChinaMaxNoIP",
           "reason": "sing-box has no USER-AGENT matcher"
         },
         {
-          "line": 110448,
+          "line": 110450,
           "rule": "USER-AGENT,%E4%B8%AD%E5%9B%BD%E5%B7%A5%E5%95%86%E9%93%B6%E8%A1%8C*,ChinaMaxNoIP",
           "reason": "sing-box has no USER-AGENT matcher"
         },
         {
-          "line": 110449,
+          "line": 110451,
           "rule": "USER-AGENT,%E4%BA%AC%E4%B8%9C%E5%88%B0%E5%AE%B6*,ChinaMaxNoIP",
           "reason": "sing-box has no USER-AGENT matcher"
         },
         {
-          "line": 110450,
+          "line": 110452,
           "rule": "USER-AGENT,%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1*,ChinaMaxNoIP",
           "reason": "sing-box has no USER-AGENT matcher"
         },
         {
-          "line": 110451,
+          "line": 110453,
           "rule": "USER-AGENT,%E4%BC%98%E9%85%B7*,ChinaMaxNoIP",
           "reason": "sing-box has no USER-AGENT matcher"
         },
         {
-          "line": 110452,
+          "line": 110454,
           "rule": "USER-AGENT,%E5%8D%B3%E5%88%BB*,ChinaMaxNoIP",
           "reason": "sing-box has no USER-AGENT matcher"
         },
         {
-          "line": 110453,
+          "line": 110455,
           "rule": "USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*,ChinaMaxNoIP",
           "reason": "sing-box has no USER-AGENT matcher"
         },
         {
-          "line": 110454,
+          "line": 110456,
           "rule": "USER-AGENT,*Vainglory*,ChinaMaxNoIP",
           "reason": "sing-box has no USER-AGENT matcher"
         },
         {
-          "line": 110455,
+          "line": 110457,
           "rule": "USER-AGENT,AdBlock*,ChinaMaxNoIP",
           "reason": "sing-box has no USER-AGENT matcher"
         },
         {
-          "line": 110456,
+          "line": 110458,
           "rule": "USER-AGENT,Best%20Trace*,ChinaMaxNoIP",
           "reason": "sing-box has no USER-AGENT matcher"
         },
         {
-          "line": 110457,
+          "line": 110459,
           "rule": "USER-AGENT,MegaWerewolf*,ChinaMaxNoIP",
           "reason": "sing-box has no USER-AGENT matcher"
         },
         {
-          "line": 110458,
+          "line": 110460,
           "rule": "USER-AGENT,MicroMessenger%20Client,ChinaMaxNoIP",
           "reason": "sing-box has no USER-AGENT matcher"
         },
         {
-          "line": 110459,
+          "line": 110461,
           "rule": "USER-AGENT,MicroMessenger*,ChinaMaxNoIP",
           "reason": "sing-box has no USER-AGENT matcher"
         },
         {
-          "line": 110460,
+          "line": 110462,
           "rule": "USER-AGENT,MicroMessengerClient*,ChinaMaxNoIP",
           "reason": "sing-box has no USER-AGENT matcher"
         },
         {
-          "line": 110461,
+          "line": 110463,
           "rule": "USER-AGENT,Microsoft*,ChinaMaxNoIP",
           "reason": "sing-box has no USER-AGENT matcher"
         },
         {
-          "line": 110462,
+          "line": 110464,
           "rule": "USER-AGENT,Moke*,ChinaMaxNoIP",
           "reason": "sing-box has no USER-AGENT matcher"
         },
         {
-          "line": 110463,
+          "line": 110465,
           "rule": "USER-AGENT,NeteaseMusic*,ChinaMaxNoIP",
           "reason": "sing-box has no USER-AGENT matcher"
         },
         {
-          "line": 110464,
+          "line": 110466,
           "rule": "USER-AGENT,QQ*,ChinaMaxNoIP",
           "reason": "sing-box has no USER-AGENT matcher"
         },
         {
-          "line": 110465,
+          "line": 110467,
           "rule": "USER-AGENT,RemotePlay*,ChinaMaxNoIP",
           "reason": "sing-box has no USER-AGENT matcher"
         },
         {
-          "line": 110466,
+          "line": 110468,
           "rule": "USER-AGENT,TIM*,ChinaMaxNoIP",
           "reason": "sing-box has no USER-AGENT matcher"
         },
         {
-          "line": 110467,
+          "line": 110469,
           "rule": "USER-AGENT,TeamViewer*,ChinaMaxNoIP",
           "reason": "sing-box has no USER-AGENT matcher"
         },
         {
-          "line": 110468,
+          "line": 110470,
           "rule": "USER-AGENT,WeChat*,ChinaMaxNoIP",
           "reason": "sing-box has no USER-AGENT matcher"
         },
         {
-          "line": 110469,
+          "line": 110471,
           "rule": "USER-AGENT,WebTorrent*,ChinaMaxNoIP",
           "reason": "sing-box has no USER-AGENT matcher"
         },
         {
-          "line": 110470,
+          "line": 110472,
           "rule": "USER-AGENT,YYeTs*,ChinaMaxNoIP",
           "reason": "sing-box has no USER-AGENT matcher"
         },
         {
-          "line": 110471,
+          "line": 110473,
           "rule": "USER-AGENT,arrowio*,ChinaMaxNoIP",
           "reason": "sing-box has no USER-AGENT matcher"
         },
         {
-          "line": 110472,
+          "line": 110474,
           "rule": "USER-AGENT,balls*,ChinaMaxNoIP",
           "reason": "sing-box has no USER-AGENT matcher"
         },
         {
-          "line": 110473,
+          "line": 110475,
           "rule": "USER-AGENT,cmb*,ChinaMaxNoIP",
           "reason": "sing-box has no USER-AGENT matcher"
         },
         {
-          "line": 110474,
+          "line": 110476,
           "rule": "USER-AGENT,cmblife*,ChinaMaxNoIP",
           "reason": "sing-box has no USER-AGENT matcher"
         },
         {
-          "line": 110475,
+          "line": 110477,
           "rule": "USER-AGENT,eusoft_ting_en_iphone,ChinaMaxNoIP",
           "reason": "sing-box has no USER-AGENT matcher"
         },
         {
-          "line": 110476,
+          "line": 110478,
           "rule": "USER-AGENT,hearthstone*,ChinaMaxNoIP",
           "reason": "sing-box has no USER-AGENT matcher"
         },
         {
-          "line": 110477,
+          "line": 110479,
           "rule": "USER-AGENT,hide*,ChinaMaxNoIP",
           "reason": "sing-box has no USER-AGENT matcher"
         },
         {
-          "line": 110478,
+          "line": 110480,
           "rule": "USER-AGENT,ting_en,ChinaMaxNoIP",
           "reason": "sing-box has no USER-AGENT matcher"
         },
         {
-          "line": 110479,
+          "line": 110481,
           "rule": "USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91,ChinaMaxNoIP",
           "reason": "sing-box has no USER-AGENT matcher"
         },
         {
-          "line": 110480,
+          "line": 110482,
           "rule": "USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90,ChinaMaxNoIP",
           "reason": "sing-box has no USER-AGENT matcher"
         },
         {
-          "line": 110481,
+          "line": 110483,
           "rule": "USER-AGENT,%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90*,ChinaMaxNoIP",
           "reason": "sing-box has no USER-AGENT matcher"
         },
         {
-          "line": 110482,
+          "line": 110484,
           "rule": "USER-AGENT,*QIYI*,ChinaMaxNoIP",
           "reason": "sing-box has no USER-AGENT matcher"
         },
         {
-          "line": 110483,
+          "line": 110485,
           "rule": "USER-AGENT,AcFun*,ChinaMaxNoIP",
           "reason": "sing-box has no USER-AGENT matcher"
         },
         {
-          "line": 110484,
+          "line": 110486,
           "rule": "USER-AGENT,DomesticMedia*,ChinaMaxNoIP",
           "reason": "sing-box has no USER-AGENT matcher"
         },
         {
-          "line": 110485,
+          "line": 110487,
           "rule": "USER-AGENT,MGTV*,ChinaMaxNoIP",
           "reason": "sing-box has no USER-AGENT matcher"
         },
         {
-          "line": 110486,
-          "rule": "USER-AGENT,MOO*,ChinaMaxNoIP",
-          "reason": "sing-box has no USER-AGENT matcher"
-        },
-        {
-          "line": 110487,
-          "rule": "USER-AGENT,MiguVideo*,ChinaMaxNoIP",
-          "reason": "sing-box has no USER-AGENT matcher"
-        },
-        {
           "line": 110488,
-          "rule": "USER-AGENT,QQ%e9%9f%b3%e4%b9%90*,ChinaMaxNoIP",
-          "reason": "sing-box has no USER-AGENT matcher"
-        },
-        {
-          "line": 110489,
-          "rule": "USER-AGENT,QQMusic*,ChinaMaxNoIP",
-          "reason": "sing-box has no USER-AGENT matcher"
-        },
-        {
-          "line": 110490,
-          "rule": "USER-AGENT,Youku*,ChinaMaxNoIP",
-          "reason": "sing-box has no USER-AGENT matcher"
-        },
-        {
-          "line": 110491,
-          "rule": "USER-AGENT,bilibili*,ChinaMaxNoIP",
-          "reason": "sing-box has no USER-AGENT matcher"
-        },
-        {
-          "line": 110492,
-          "rule": "USER-AGENT,youku*,ChinaMaxNoIP",
-          "reason": "sing-box has no USER-AGENT matcher"
-        },
-        {
-          "line": 110493,
-          "rule": "USER-AGENT,Himalaya*,ChinaMaxNoIP",
-          "reason": "sing-box has no USER-AGENT matcher"
-        },
-        {
-          "line": 110494,
-          "rule": "USER-AGENT,baiduyinyue,ChinaMaxNoIP",
-          "reason": "sing-box has no USER-AGENT matcher"
-        },
-        {
-          "line": 110495,
           "rule": "USER-AGENT,MOO%E9%9F%B3%E4%B9%90*,ChinaMaxNoIP",
           "reason": "sing-box has no USER-AGENT matcher"
         },
         {
-          "line": 110496,
+          "line": 110489,
+          "rule": "USER-AGENT,MOO*,ChinaMaxNoIP",
+          "reason": "sing-box has no USER-AGENT matcher"
+        },
+        {
+          "line": 110490,
+          "rule": "USER-AGENT,MiguVideo*,ChinaMaxNoIP",
+          "reason": "sing-box has no USER-AGENT matcher"
+        },
+        {
+          "line": 110491,
+          "rule": "USER-AGENT,PPStream*,ChinaMaxNoIP",
+          "reason": "sing-box has no USER-AGENT matcher"
+        },
+        {
+          "line": 110492,
+          "rule": "USER-AGENT,QIYI*,ChinaMaxNoIP",
+          "reason": "sing-box has no USER-AGENT matcher"
+        },
+        {
+          "line": 110493,
           "rule": "USER-AGENT,QQ%E9%9F%B3%E4%B9%90,ChinaMaxNoIP",
+          "reason": "sing-box has no USER-AGENT matcher"
+        },
+        {
+          "line": 110494,
+          "rule": "USER-AGENT,QQ%e9%9f%b3%e4%b9%90*,ChinaMaxNoIP",
+          "reason": "sing-box has no USER-AGENT matcher"
+        },
+        {
+          "line": 110495,
+          "rule": "USER-AGENT,QQMusic*,ChinaMaxNoIP",
+          "reason": "sing-box has no USER-AGENT matcher"
+        },
+        {
+          "line": 110496,
+          "rule": "USER-AGENT,QYPlayer*,ChinaMaxNoIP",
           "reason": "sing-box has no USER-AGENT matcher"
         },
         {
@@ -449,52 +439,62 @@
         },
         {
           "line": 110498,
-          "rule": "USER-AGENT,live4iphone*,ChinaMaxNoIP",
+          "rule": "USER-AGENT,Youku*,ChinaMaxNoIP",
           "reason": "sing-box has no USER-AGENT matcher"
         },
         {
           "line": 110499,
-          "rule": "USER-AGENT,qqlive4iphone*,ChinaMaxNoIP",
+          "rule": "USER-AGENT,baiduyinyue,ChinaMaxNoIP",
           "reason": "sing-box has no USER-AGENT matcher"
         },
         {
           "line": 110500,
-          "rule": "USER-AGENT,walkman*,ChinaMaxNoIP",
+          "rule": "USER-AGENT,bilibili*,ChinaMaxNoIP",
           "reason": "sing-box has no USER-AGENT matcher"
         },
         {
           "line": 110501,
-          "rule": "USER-AGENT,xiami*,ChinaMaxNoIP",
-          "reason": "sing-box has no USER-AGENT matcher"
-        },
-        {
-          "line": 110502,
-          "rule": "USER-AGENT,PPStream*,ChinaMaxNoIP",
-          "reason": "sing-box has no USER-AGENT matcher"
-        },
-        {
-          "line": 110503,
-          "rule": "USER-AGENT,QIYI*,ChinaMaxNoIP",
-          "reason": "sing-box has no USER-AGENT matcher"
-        },
-        {
-          "line": 110504,
-          "rule": "USER-AGENT,QYPlayer*,ChinaMaxNoIP",
-          "reason": "sing-box has no USER-AGENT matcher"
-        },
-        {
-          "line": 110505,
-          "rule": "USER-AGENT,iQIYI*,ChinaMaxNoIP",
-          "reason": "sing-box has no USER-AGENT matcher"
-        },
-        {
-          "line": 110506,
           "rule": "USER-AGENT,iQiYi*,ChinaMaxNoIP",
           "reason": "sing-box has no USER-AGENT matcher"
         },
         {
-          "line": 110507,
+          "line": 110502,
           "rule": "USER-AGENT,iQiyi*,ChinaMaxNoIP",
+          "reason": "sing-box has no USER-AGENT matcher"
+        },
+        {
+          "line": 110503,
+          "rule": "USER-AGENT,live4iphone*,ChinaMaxNoIP",
+          "reason": "sing-box has no USER-AGENT matcher"
+        },
+        {
+          "line": 110504,
+          "rule": "USER-AGENT,qqlive4iphone*,ChinaMaxNoIP",
+          "reason": "sing-box has no USER-AGENT matcher"
+        },
+        {
+          "line": 110505,
+          "rule": "USER-AGENT,walkman*,ChinaMaxNoIP",
+          "reason": "sing-box has no USER-AGENT matcher"
+        },
+        {
+          "line": 110506,
+          "rule": "USER-AGENT,xiami*,ChinaMaxNoIP",
+          "reason": "sing-box has no USER-AGENT matcher"
+        },
+        {
+          "line": 110507,
+          "rule": "USER-AGENT,youku*,ChinaMaxNoIP",
+          "reason": "sing-box has no USER-AGENT matcher"
+        },
+        {
+          "line": 110508,
+          "rule": "USER-AGENT,Himalaya*,ChinaMaxNoIP",
+          "reason": "sing-box has no USER-AGENT matcher"
+        },
+        {
+          "line": 110509,
+          "rule": "USER-AGENT,iQIYI*,ChinaMaxNoIP",
           "reason": "sing-box has no USER-AGENT matcher"
         }
       ]
@@ -506,8 +506,8 @@
       "sha256": "5120765ea1263d9a5ccf7fc26240c416e4ebc6116fe1c95e39cc610921d21644"
     },
     "20473": {
-      "prefix_count": 3055,
-      "sha256": "f5a823ec12de0010981c0f9aebd6fb24d7159e2826e5b77a86f41d047a69e9fa"
+      "prefix_count": 3067,
+      "sha256": "15ddb1ffaa7b7e9a5402453635ec7afc4c502399a2ead9c45b6ee0432b95826c"
     },
     "211157": {
       "prefix_count": 3,
