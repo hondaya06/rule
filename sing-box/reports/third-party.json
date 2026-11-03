@@ -4,7 +4,7 @@
       "name": "limbopro-Adblock4limbo",
       "url": "https://raw.githubusercontent.com/limbopro/Adblock4limbo/main/QuantumultX/rule/Adblock4limbo.list",
       "min_rules": 271,
-      "sha256": "4113f7816c9e01f814a8178cb13cac7f0b31b3d7d6daf3380ac85b6fec1d483e",
+      "sha256": "5fec42de94e30ae0a27ae0528e7c3f88bac57ffab4f0d31f99ee73a299f54909",
       "input_rules": 548,
       "converted_values": 526,
       "asn": [],
@@ -26,7 +26,7 @@
       "min_rules": 17,
       "sha256": "6ec16f5da986a15c62e80192f5b445dcdaf88607987923120761c1388eeb243d",
       "input_rules": 35,
-      "converted_values": 2924,
+      "converted_values": 2906,
       "asn": [
         "20473"
       ],
@@ -506,8 +506,8 @@
       "sha256": "5120765ea1263d9a5ccf7fc26240c416e4ebc6116fe1c95e39cc610921d21644"
     },
     "20473": {
-      "prefix_count": 2890,
-      "sha256": "456767471d0490f564d8598de986d0d0f464c6f12fa2bd2ccba97d0f8fde13ea"
+      "prefix_count": 2872,
+      "sha256": "80283614d1f2d24961e9ffe2d55fbd072966aa0b6b2fa7d53d087d441e881bdb"
     },
     "211157": {
       "prefix_count": 3,
