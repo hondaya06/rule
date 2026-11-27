@@ -26,7 +26,7 @@
       "min_rules": 17,
       "sha256": "6ec16f5da986a15c62e80192f5b445dcdaf88607987923120761c1388eeb243d",
       "input_rules": 35,
-      "converted_values": 5411,
+      "converted_values": 5460,
       "asn": [
         "20473"
       ],
@@ -506,8 +506,8 @@
       "sha256": "00ade5932dcae686e6e32301dc53f491914e06778182192ab82a10b0b6b3397c"
     },
     "20473": {
-      "prefix_count": 5377,
-      "sha256": "d2f4d0a6f57c7a1621e4d7241669fab538ef2463f18cd21b018a8001c316417b"
+      "prefix_count": 5426,
+      "sha256": "dbde36245cde663059194b8641bf521e8df4aa2fa9d9bcacaa8c5148ae34749b"
     },
     "211157": {
       "prefix_count": 3,
